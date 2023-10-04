@@ -4,3 +4,6 @@ toby resolusi
 - membuat website dengan html
 - membuat dengan bootstrap
 - membuat dengan javascript
+
+- membuat backend dengan node js
+- belajar react js
